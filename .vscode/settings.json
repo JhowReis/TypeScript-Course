@@ -2,5 +2,12 @@
     "code-runner.executorMap": {
         "typescript": "npx ts-node --files --transpile-only",
         
-    }
-}
+    },
+
+
+    "eslint.enable": true,
+	"eslint.workingDirectories": [
+		{"mode": "auto"}
+	]
+
+}    
