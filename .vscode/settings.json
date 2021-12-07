@@ -8,6 +8,13 @@
     "eslint.enable": true,
 	"eslint.workingDirectories": [
 		{"mode": "auto"}
-	]
+	],
+
+    // Auto fix on save
+    "editor.codeActionsOnSave": {
+        "eslint.autoFixOnSave": false,
+        "source.fixAll.eslint": true,
+        "source.fixAll": true
+    },
 
 }    
