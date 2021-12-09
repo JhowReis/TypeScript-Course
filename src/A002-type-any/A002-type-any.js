@@ -1,6 +1,6 @@
 //use any in last case
-function showMessage(msg) {
-  return msg;
-}
+// function showMessage(msg) {
+//   return msg;
+// }
 
-console.log([1, 2, 3]);
+// console.log([1, 2, 3]);
